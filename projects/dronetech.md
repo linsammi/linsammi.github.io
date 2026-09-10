@@ -1,10 +1,10 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/dronetech.png
 title: "UH Drone Technologies"
 date: 2024-07-30
-published: true
+published: false
 labels:
   - Drone Technology
   - Power Systems
