@@ -4,7 +4,7 @@ type: project
 image: img/dronetech.png
 title: "UH Drone Technologies"
 date: 2024-07-30
-published: false
+published: true
 labels:
   - Drone Technology
   - Power Systems
