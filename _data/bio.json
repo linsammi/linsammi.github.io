@@ -27,17 +27,55 @@
       "name": "Drone Technologies"
     },
     {
-      "name": "AI Developement"
+      "name": "AI Development"
+    },
+    {
+      "name": "Biomedical Devices"
+    },
+    {
+      "name": "Robotics Engineering"
     }
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
-      "keywords": ["C", "C++", "Java", "Javascript", "Assembly", "Common Lisp"]
+      "name": "Hardware & Drone Systems",
+      "keywords": [
+        "Drone Technology",
+        "Hardware Integration",
+        "Power Systems",
+        "Battery Systems",
+        "Microcontrollers"
+      ]
     },
     {
-      "name": "Toolsets/OS",
-      "keywords": ["MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad"]
+      "name": "Embedded Systems & Sensors",
+      "keywords": [
+        "Arduino",
+        "Sensor Integration",
+        "Analog & Digital I/O",
+        "Breadboard Prototyping"
+      ]
+    },
+    {
+      "name": "Programming",
+      "keywords": [
+        "C",
+        "C++",
+        "Java",
+        "JavaScript",
+        "TypeScript",
+        "Assembly"
+      ]
+    },
+    {
+      "name": "Development Tools",
+      "keywords": [
+        "Git",
+        "GitHub",
+        "Linux",
+        "macOS",
+        "VS Code"
+      ]
     }
   ],
   "education": [
