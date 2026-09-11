@@ -9,7 +9,7 @@ labels:
   - Communication
 ---
 
-Before reading *How to Ask Questions the Smart Way*, I never thought much about how I asked for programming help. When I am stuck, I usually think, "I have no idea, can you just make this work?" The reading taught me that being specific makes it easier for people to actually help you.
+Before reading How to Ask Questions the Smart Way, I never thought much about how I asked for programming help. When I am stuck, I usually think, "I have no idea, can you just make this work?" The reading taught me that being specific makes it easier for people to actually help you.
 
 ## Smart vs. Not-So-Smart
 
