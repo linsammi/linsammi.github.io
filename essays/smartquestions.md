@@ -13,10 +13,10 @@ Before reading *How to Ask Questions the Smart Way*, I never thought much about 
 
 ## Smart vs. Not-So-Smart
 
-One [Stack Overflow question](https://stackoverflow.com/questions/35576307/declaration-or-statement-expected-javascript-typescript) I found was about a TypeScript error. The person included their code, the error message, and explained what they were trying to do. Because the question was clear, someone was able to quickly explain that the assignment needed parentheses. This showed me how a smart question can lead to a direct answer.
+One [Stack Overflow question](https://stackoverflow.com/questions/35576307/declaration-or-statement-expected-javascript-typescript) I found was about a TypeScript error. The person included their code, the error message, and explained what they were trying to do. Someone was able to quickly explain that the assignment needed parentheses. This showed me how a clear question can lead to a direct answer.
 
-A not-so-smart question would be, "My TypeScript code doesn't work. Can someone fix it?" There is no code, error, or explanation. The person helping would have to ask more questions before they could even understand the problem.
+For comparison, [another Stack Overflow question](https://stackoverflow.com/questions/64815475/how-to-make-square-number-in-javascript) asked how to create a square of numbers in JavaScript. The person showed the output they wanted, but did not explain what they had already tried or where they were stuck. The question was downvoted and closed for needing more details or clarity. This shows how a less clear question can make it harder to get useful help.
 
 ## What I Learned
 
-I usually try things myself before asking for help, but now I understand that how I ask is important too. I should explain what I tried, what I expected, and what went wrong. Asking better questions can get me better answers, but it can also help me understand my own problem and become better at solving it.
+I usually try things myself before asking for help, but now I understand that how I ask is important too. I should explain what I tried, what I expected, and what went wrong. Asking better questions can get me better answers and also help me understand my own problem.
