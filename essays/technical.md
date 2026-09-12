@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "My Interests in Software Engineering"
+title: "My Interests in Computer Engineering"
 date: 2026-09-11
 published: true
 labels:
