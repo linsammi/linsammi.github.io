@@ -1,3 +1,4 @@
+
 ---
 layout: essay
 type: essay
@@ -32,7 +33,7 @@ Throughout this module, I recreated several websites, including Island Snow, Mur
 
 My favorite project was recreating the CSM Hawaii website. I enjoyed seeing how the images, navigation, and layout came together to make something that looked like an actual professional website. It was satisfying to see how much I could accomplish after barely knowing HTML and CSS.
 
-![My CSM Hawaii website recreated using Bootstrap 5](../images/csm-bootstrap.png)
+![My CSM Hawaii website recreated using Bootstrap 5](/images/csm-bootstrap.png)
 
 *My recreation of the CSM Hawaii website using Bootstrap 5.*
 
@@ -46,4 +47,4 @@ I'm still undecided whether I would use Bootstrap or regular HTML and CSS for fu
 
 ---
 
-*AI Usage Disclosure: I used ChatGPT to organize my thoughts. The experiences and opinions are based on my own coursework and reflections.*
+*AI Usage Disclosure: I used ChatGPT to help organize and draft this essay based on my own coursework and reflections.*
