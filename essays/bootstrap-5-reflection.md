@@ -32,7 +32,9 @@ Throughout this module, I recreated several websites, including Island Snow, Mur
 
 My favorite project was recreating the CSM Hawaii website. I enjoyed seeing how the images, navigation, and layout came together to make something that looked like an actual professional website. It was satisfying to see how much I could accomplish after barely knowing HTML and CSS.
 
-![My CSM Hawaii website recreated using Bootstrap 5](/img/csm-bootstrap.png)
+<p align="center">
+  <img src="/img/csm-bootstrap.png" alt="My CSM Hawaii website recreated using Bootstrap 5" width="500">
+</p>
 
 *My recreation of the CSM Hawaii website using Bootstrap 5.*
 
@@ -47,4 +49,3 @@ I'm still undecided whether I would use Bootstrap or regular HTML and CSS for fu
 ---
 
 *AI Usage Disclosure: I used ChatGPT to help organize and draft this essay based on my own coursework and reflections.*
-
