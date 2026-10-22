@@ -26,4 +26,4 @@ Moving forward, I want to make checking coding standards part of my regular prog
 
 Overall, I still don't love fixing every ESLint error, but I think it has helped me improve my coding habits. It makes me pay more attention to how I write code instead of only caring about whether it runs. I now understand that writing good software involves more than making a program functional. It also means writing code that other people can understand and maintain.
 
-AI Use Disclosure: I used ChatGPT to help organize and expand my personal reflections and improve the clarity of my writing. I reviewed the content to make sure it reflects my own perspective.
+**AI Use Disclosure: I used ChatGPT to help organize and expand my personal reflections and improve the clarity of my writing. I reviewed the content to make sure it reflects my own perspective.**
