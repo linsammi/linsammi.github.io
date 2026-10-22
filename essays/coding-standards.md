@@ -1,3 +1,4 @@
+
 ---
 layout: essay
 type: essay
@@ -16,7 +17,7 @@ Before ICS 314, I thought coding standards were mostly about keeping code organi
 
 My first experience with ESLint has been both helpful and a little annoying. Sometimes I think my code is finished, but ESLint still finds something that needs to be fixed. Since TypeScript is new to me, though, these errors have helped me notice mistakes and learn how the language is supposed to be written. I am more familiar with Python, so adjusting to TypeScript's syntax and coding conventions has taken some practice.
 
-One example was when I worked on the Island Cities assignment. ESLint identified many formatting issues in my code, including using double quotes instead of single quotes and missing a trailing comma. Initially, I was frustrated because my program could still work even with these formatting differences. However, I realized that coding standards aren't always about whether a program runs correctly. They are also about making sure the code follows a consistent structure. I also learned that ESLint has a --fix option that can automatically correct many formatting problems, which makes the process much more manageable.
+One example was when I worked on the Island Cities assignment. ESLint identified many formatting issues in my code, including using double quotes instead of single quotes and missing a trailing comma. Initially, I was frustrated because my program could still work even with these formatting differences. However, I realized that coding standards aren't always about whether a program runs correctly. They are also about making sure the code follows a consistent structure. I also learned that ESLint has a `--fix` option that can automatically correct many formatting problems, which makes the process much more manageable.
 
 I also understand why coding standards are important when working with other people. Code should not only work; it should be easy for someone else to read and understand. If every programmer uses a different style, it becomes harder to review and modify code. Following the same standards makes everyone's code more consistent and easier to work with. This is especially important in software engineering, where multiple developers often contribute to the same project.
 
